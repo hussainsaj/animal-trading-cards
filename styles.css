@@ -1,0 +1,37 @@
+/* add your CSS here */
+
+div .animal-image {
+	height: 200px;
+	width: 300px;
+	padding-bottom: 15px;
+}
+
+div .heading {
+	font-size: 25px;
+}
+
+div .description {
+	font-style: italic;
+}
+
+span {
+	font-weight: bold;
+}
+
+ul {
+	list-style-type: none;
+	padding: 0;
+}
+
+div .card {
+	border: 1px solid #dddddd;
+	padding: 0 15px 15px;
+	width: 300px;
+	box-shadow: 10px 10px 5px #eaeaea;
+}
+
+div .information {
+	border: 1px solid #dddddd;
+	padding: 0 20px 15px;
+	width: 260px;
+}
